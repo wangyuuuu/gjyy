@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://oa.pkuih.edu.cn/oa_app_download/productiondoctortest/ios/image.52x52.png</string>
+					<string>https://raw.githubusercontent.com/wangyuuuu/gjyy/main/app_icon57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://oa.pkuih.edu.cn/oa_app_download/productiondoctortest/ios/image.512x512.png</string>
+					<string>https://raw.githubusercontent.com/wangyuuuu/gjyy/main/app_icon512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
